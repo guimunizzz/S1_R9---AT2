@@ -20,5 +20,5 @@ Para testar as soluções, basta clonar este repositório e abrir os arquivos HT
 git clone https://github.com/guimunizzz/S1_R9---AT2.git
 ```
 
-##🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 JavaScript
