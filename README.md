@@ -21,4 +21,4 @@ git clone https://github.com/guimunizzz/S1_R9---AT2.git
 ```
 
 ## 🛠️ Tecnologias Utilizadas
-* ### JavaScript
+### * JavaScript
